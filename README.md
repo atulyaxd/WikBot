@@ -3,9 +3,7 @@ A Discord Bot that can be added to your server, it uses wikipedia python library
 
 ## Installation
 Step 1: go to its webpage, [https://wikhome.web.app/](https://wikhome.web.app/),  
-
 Step 2: locate discord png below the status,
-
 Step 3: Click on it and add it on your server
 
 That's it you have successfully to your server.
@@ -22,7 +20,8 @@ I have used [UptimeRobot](https://uptimerobot.com/) to keep the server pinging.
 
 ## Bugs
 1. At present the server may go down due to unavailability. 
-***do report if found any
+
+***do report if you find any***
 
 
-***Feel free to use my code but don't forget to mention credit
+***Feel free to use my code but don't forget to mention credit***
