@@ -22,4 +22,4 @@ I have used [UptimeRobot](https://uptimerobot.com/) to keep the server pinging.
 ***do report if you find any***
 
 
-***Feel free to use my code but don't forget to mention credit***
+***Feel free to use but don't forget to mention credit***
