@@ -21,5 +21,7 @@ I have used [UptimeRobot](https://uptimerobot.com/) to keep the server pinging.
 1. At present the server may go down due to unavailability. 
 ***do report if you find any***
 
+## Additional
+1. This is also available for voice assistants, refer https://github.com/itsatulya/Pratibha-Voice-Assistant.
 
 ***Feel free to use but don't forget to mention credit***
