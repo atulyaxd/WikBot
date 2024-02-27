@@ -6,7 +6,7 @@ Step 1: go to its webpage, [https://wikhome.web.app/](https://wikhome.web.app/),
 Step 2: locate discord png below the status, <br />
 Step 3: Click on it and add it on your server <br />
 
-That's it you have successfully to your server.
+That's it you have successfully added the bot to your server.
 
 ## Code
 code : This project is hosted here, [https://replit.com/@AtulyaBharat1/WikBot](https://replit.com/@AtulyaBharat1/WikBot). As the project is to be run indefinitely and requires remote updation. <br />
